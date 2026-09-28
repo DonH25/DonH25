@@ -6,9 +6,9 @@
 
 <p align="center">
   <!-- TODO: reemplaza con tu URL real de LinkedIn -->
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/luis-hern%C3%A1ndez-121a0a298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- TODO: reemplaza con tu correo -->
-  <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:luishgdonh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Bogotá,_Colombia-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación">
 </p>
 
@@ -21,7 +21,7 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque. Me gusta construir 
 - 🔭 Actualmente desarrollo mi proyecto de grado: un **sistema de gestión de cargas laborales y planificación de personal** para una empresa de HVAC en Estados Unidos.
 - 🌱 Estoy profundizando en **Spring Boot + React**, desarrollo Android con **Jetpack Compose** y **Machine Learning** con Python.
 - 🏢 También he trabajado con marcos de gestión y arquitectura empresarial: **TOGAF, COBIT 2019, ITIL 4, PMBOK e ISO 27001**.
-- 💼 **Busco práctica profesional** en desarrollo de software, backend o análisis de datos.
+- 💼 **Busco práctica profesional** en desarrollo de software, backend, desarrollo web, desarrollo de aplicaciones moviles.
 
 ---
 
@@ -66,7 +66,6 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque. Me gusta construir 
 | [**Proyecto Final Bases de Datos**](https://github.com/DonH25/ProyectoFinalBasesDeDatosBack) | Aplicación web completa en equipo: [backend](https://github.com/DonH25/ProyectoFinalBasesDeDatosBack) y [frontend](https://github.com/DonH25/ProyectoFinalFrontEnd). | Java · HTML · SQL |
 | [**Proyecto Coloquial**](https://github.com/DonH25/ProyectoColoquial) | Proyecto final de Ingeniería de Software 1. | Java |
 | **Gestor Serviempresas** | Aplicación web CRUD para gestionar trabajadoras y órdenes de trabajo de clientes, con persistencia local e importación de datos en JSON con resolución de conflictos. | JavaScript · IndexedDB |
-| **DSL de reglas de crédito** | Lenguaje de dominio específico para reglas de aprobación de crédito, con árbol de sintaxis abstracta (AST) y evaluador propio. | JavaScript |
 | [**ServiceDesk TI**](https://github.com/dannn-36/ServiceDeskTI-Angular) *(colaboración)* | Mesa de ayuda de TI desarrollada en equipo. | Angular · HTML |
 
 <!-- TODO: si subes GasTrack, Serviempresas o el DSL a GitHub, convierte el nombre en enlace igual que los demás -->
