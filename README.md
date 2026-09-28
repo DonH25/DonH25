@@ -70,15 +70,6 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque. Me gusta construir 
 
 <!-- TODO: si subes GasTrack, Serviempresas o el DSL a GitHub, convierte el nombre en enlace igual que los demás -->
 
----
 
-### Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DonH25&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonH25&layout=compact&hide_border=true" alt="Lenguajes más usados">
-</p>
-
----
 
 <p align="center"><i>Abierto a oportunidades de práctica profesional. ¡Escríbeme!</i></p>
