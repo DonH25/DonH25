@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Luis Hernández 👋</h1>
 <p align="center">
   <b>Estudiante de Ingeniería de Sistemas · Universidad El Bosque</b><br>
-  Backend con Java y Spring Boot · Apps Android con Kotlin · Datos y Machine Learning
+  Backend con Java y Spring Boot - Apps Android con Kotlin - Desarrollo Web  
 </p>
 
 <p align="center">
@@ -44,8 +44,7 @@ Estudio Ingeniería de Sistemas en la Universidad El Bosque. Me gusta construir 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 
 **Bases de datos y herramientas**
 
