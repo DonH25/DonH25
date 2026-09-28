@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Luis Hernández 👋</h1>
+<h1 align="center">Hola, soy Luis Hernández </h1>
 <p align="center">
   <b>Estudiante de Ingeniería de Sistemas · Universidad El Bosque</b><br>
   Backend con Java y Spring Boot - Apps Android con Kotlin - Desarrollo Web  
